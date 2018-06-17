@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "security", ".", "{66D54D34-43A2-4629-B981-2C50EB34574B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64809"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\coding\security\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64809\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64809"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\coding\security\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64809\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64809"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D54D34-43A2-4629-B981-2C50EB34574B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D54D34-43A2-4629-B981-2C50EB34574B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86C279D-322C-42D6-8B53-023316C186CF}
+	EndGlobalSection
+EndGlobal
